@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.code {
+    position: fixed;
+    bottom: 2%;
+    left: 45%;
+    display: flex;
+    color: snow;
+    font-size: 0.9rem;
+    
+}
+
+
