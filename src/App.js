@@ -101,7 +101,7 @@ function App() {
       
     </div>
     <div className="code">
-      <p><a href="#">Source Code</a></p>
+      <p><a href="https://github.com/mortezatoushekhah/todo-app-react-firebase" target='_blank'>Source Code</a></p>
     </div>
     </>
   );
